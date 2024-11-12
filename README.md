@@ -1,6 +1,12 @@
 # Projeto: Vídeos sobre o Livro 'Projetando Sistemas de Machine Learning'
 
-Este repositório contém uma série de vídeos explicativos sobre os 5 primeiros capítulos do livro **Projetando Sistemas de Machine Learning** de Chip Huyen. Cada vídeo aborda um capítulo do livro, destacando os principais conceitos e práticas discutidos.
+**Autor:** André Eve Felix da Silva 
+
+Este repositório faz parte do trabalho desenvolvido para a disciplina **Aprendizado de Máquina** e contém uma série de vídeos explicativos sobre os 5 primeiros capítulos do livro **Projetando Sistemas de Machine Learning** de Chip Huyen. Cada vídeo aborda um capítulo do livro, destacando os principais conceitos e práticas discutidos.
+
+## Descrição do Trabalho
+
+O trabalho consiste em resumir e explicar os principais pontos de cada capítulo do livro **Projetando Sistemas de Machine Learning** de Chip Huyen. Para isso, eu li cada capítulo, identifiquei os conceitos principais e criei um vídeo explicativo para facilitar o entendimento de cada seção, o livro tem a didática de usar muitos exemplos, o que torna mais fácil a aprendizagem.
 
 ## Sumário dos Vídeos
 
